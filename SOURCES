@@ -1,0 +1,7 @@
+TARGETNAME=Ramdisk
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+SOURCES=ramdisk.c \
+        pnp.c
+
