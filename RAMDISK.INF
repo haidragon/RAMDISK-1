@@ -1,5 +1,5 @@
 ; RAMDISK.INF 
-; Windows 2000 installation file for installing the Ramdisk driver
+; Windows 10 installation file for installing the Ramdisk driver
 ; Copyright (c) 1990-2000 Microsoft Corporation All rights Reserved
 
 [Version]
